@@ -1,2 +1,3 @@
 Name: chuckgrinnell1
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
